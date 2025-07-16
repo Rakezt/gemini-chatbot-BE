@@ -44,7 +44,7 @@
 
 ---
 
-###💡 How It Works
+### 💡 How It Works
 
 Registration → saves username + passwordHash
 
