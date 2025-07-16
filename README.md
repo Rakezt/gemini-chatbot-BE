@@ -5,7 +5,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)](https://www.mongodb.com)  
 [![JWT](https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens)](https://jwt.io)  
 
-🔗 **API Docs / Live:** ([YOUR_BACKEND_URL_HERE](https://gemini-chatbot-be.onrender.com))
+🔗 **API Docs / Live:** ([URL](https://gemini-chatbot-be.onrender.com))
 
 ---
 
